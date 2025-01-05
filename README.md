@@ -10,7 +10,7 @@ multiplexed_interleaver
 
 ​	multiplexed_interleaver.v
 
-​	multiplexed_interleaver.tb
+​	tb_multiplexed_interleaver.v
 
 ​	read.me
 
