@@ -4,7 +4,9 @@ This project offers a multi-mode interleaver that supports a bit width of 8 bits
 
 
 IDE:vivado2022.2
+
 Board:ZYNQ-7020
+
 structure:
 
 multiplexed_interleaver
